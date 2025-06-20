@@ -1,0 +1,27 @@
+[
+    {   
+        "id": 1,
+        "nombre": "Mouse",
+        "img": "https://imgur.com/7Q6nj69",
+        "cantidad": 10,
+        "desc": "Lorem ipsum dolor sit amet consectetur",
+        "precio": 500
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado",
+        "img": "https://imgur.com/jBsKnIB",
+        "cantidad": 10,
+        "desc": "Lorem ipsum dolor sit amet consectetur",
+        "precio": 1200
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor",
+        "img": "https://imgur.com/JRJ7oSN",
+        "cantidad": 10,
+        "desc": "Lorem ipsum dolor sit amet consectetur",
+        "precio": 2000
+    }
+]
+
